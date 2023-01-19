@@ -1,6 +1,5 @@
 # 3do-wreck-man
-Retroloveletter / Excommunicado.
-https://www.youtube.com/@retroloveletter
+Retroloveletter https://www.youtube.com/@retroloveletter
 
 A clone of classic Pacman without Pacman assets. This is not a port, as existing game source code was not used/adapted for 3DO. 
 
