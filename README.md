@@ -1,5 +1,7 @@
 # 3do-wreck-man
 Retroloveletter / Excommunicado.
+https://www.youtube.com/@retroloveletter
+
 A clone of classic Pacman without Pacman assets. This is not a port, as existing game source code was not used/adapted for 3DO. 
 
 Originally created on 12-May-2021, refactored in 2023 prior to release.
